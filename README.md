@@ -1,6 +1,7 @@
 # RFQ Flow Cube
-* mirrotron-rfq-flow-cube <a href="https://github.com/bl-mirrotron/mirrotron-rfq-flow-cube" target="_blank">source code</a>
-* [Cooling System Overview](https://bl-mirrotron.github.io/#cooling-system)
+* <a href="https://github.com/bl-mirrotron/mirrotron-rfq-flow-cube" target="_blank">Source code</a>
+* [Cooling system overview](https://docs.bl-mirrotron.com/#cooling-system)
+* [Control system overview](https://docs.bl-mirrotron.com/)
 
 The function of the RFQ Flow Cube is to measure the water flow rate of the cooling channels on both the upstream and downstream headers. The flows  are measured with ultrasonic clamp-on Keyence <a href="https://www.keyence.com/products/process/flow/fd-q/models/fd-q20c/." target="_blank">FD-Q20C.</a> sensors. Each FD-Q20C requires 24V, 0.1A to power, The simplest way to read the sensor is to use the 4-20mA loop provided by the sensor. The sensor type and internal limits are set locally.
 
